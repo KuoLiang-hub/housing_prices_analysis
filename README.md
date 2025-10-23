@@ -48,6 +48,8 @@ To run this analysis, you'll need the following libraries, which can typically b
   * `plotly`
   * `jupyterlab` 
   * `ipykernel` 
+  * `tqdm` (optional) 
+  * `rich` (optional) 
 
 <!-- end list -->
 
