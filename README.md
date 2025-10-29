@@ -80,7 +80,7 @@ pip install pandas numpy plotly jupyterlab ipykernel
     git clone https://github.com/KuoLiang-hub/housing_prices_analysis
     cd housing_prices_analysis
     ```
-2.  **Download the data:** Obtain the relevant State and County level ZHVI data files (usually `.csv` format) from the Zillow Research website and place them in a dedicated `data/` folder (or adjust the file paths in the notebook).
+2.  **Download the data:** Obtain the most recent State and County level ZHVI data files (usually `.csv` format) from the Zillow Research website and place them in a dedicated `data/` folder (or adjust the file paths in the notebook).
 3.  **Launch the Jupyter Notebook:**
     ```bash
     jupyter lab .
