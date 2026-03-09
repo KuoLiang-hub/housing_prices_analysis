@@ -19,8 +19,8 @@ The analysis is structured into the following three main sections within the Jup
 
   * **Year-over-Year (YoY) Price Change Map:** Visualizes the most recent YoY percentage change in median home prices for **all U.S. states** using a choropleth map. This provides a quick geographical overview of price momentum.
 
-![State YoY Change](images/yoy_states_sep.png)
-_September 2025 YoY median home price change_
+![State YoY Change](images/yoy_states_jan_26.png)
+_January 2026 YoY median home price change_
 
   * **Median Price History Line Plot:** Displays the **historical median price trend** over time for selected or all states using a line plot, allowing for comparison of long-term growth trajectories.
 
@@ -31,13 +31,13 @@ _2000 to 2025 median home price by State_
 
   * **New Jersey YoY Price Change Map:** Focuses on a granular view by mapping the most recent YoY percentage change in median home prices for **all counties within New Jersey (NJ)**.
 
-![NJ_County YoY Change](images/nj_county_2025_yoy.png)
-_September 2025 NJ YoY median home price change_
+![NJ_County YoY Change](images/nj_county_202601_yoy.png)
+_January 2026 NJ YoY median home price change_
   
   * **New Jersey County Median Price History Line Plot:** Plots the **historical median price trend** over time for individual counties in New Jersey, enabling detailed comparison of local market performance within the state.
 
 ![NJ_County YoY Change](images/nj_atlantic_county.png)
-_2024 - 2025 NJ median home price by county_
+_2000 - 2025 NJ median home price by county_
   
 
 
